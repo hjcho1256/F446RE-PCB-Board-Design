@@ -1,0 +1,314 @@
+(ExpressProject "SelfF446Re"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S030 (4035538)  [6/11/2022]-[08/09/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\stm32f446relib.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\selff446re.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Display_Online_DRC_Results "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "C:\PROGRAM FILES (X86)\ORCAD\F446RE\SELFF446RE.DRC")
+    ("Allegro Netlist Output Board File" ".\allegro\selff446re2.brd")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (IREFReportFile
+       "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\SELFF446RE.csv")
+    (IREFViewOutput "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\Users\voyag\OneDrive\Documents\ORCAD_WORK\F446RE\BOM\stm32f446_08012022.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\SELFF446RE.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\selff446re.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\selff446re.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\selff446re2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\selff446re2.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\selff446re3.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\selff446re3.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\selff446re.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\selff446re.csv"
+      (Type "Report"))
+    (File "c:\program files (x86)\orcad\f446re\selff446re.drc"
+      (Type "Report"))
+    (File ".\bom\stm32f446_08012022.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\voyag\onedrive\documents\orcad_work\f446re\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\voyag\onedrive\documents\orcad_work\f446re\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\voyag\onedrive\documents\orcad_work\f446re\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\voyag\onedrive\documents\orcad_work\f446re\allegro\genfeed.log"))
+    (File ".\allegro\swp.log"
+      (Type "Log File")
+      (LogFile "C:\PROGRAM FILES (X86)\ORCAD\F446RE\allegro\swp.log")))
+  (PartMRUSelector
+    (AGND
+      (FullPartName "AGND.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    ("GND_FIELD SIGNAL"
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Resistor
+      (FullPartName "Resistor.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (Capacitor
+      (FullPartName "Capacitor.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (5PinUSB
+      (FullPartName "5PinUSB.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (LinReg
+      (FullPartName "LinReg.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (Switch
+      (FullPartName "Switch.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (9PinHead
+      (FullPartName "9PinHead.Normal")
+      (LibraryName
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (4PinHeadGPIO
+      (FullPartName "4PinHeadGPIO.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (4PinADC
+      (FullPartName "4PinADC.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (4PinHeadADC
+      (FullPartName "4PinHeadADC.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (4PinHead
+      (FullPartName "4PinHead.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (7PinHead
+      (FullPartName "7PinHead.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (BatterHolder
+      (FullPartName "BatterHolder.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (5PinHead
+      (FullPartName "5PinHead.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\F446RE\STM32F446RELIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_CIRCLE
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VDD
+      (FullPartName "VDD.Normal")
+      (LibraryName "C:\PROGRAM FILES (X86)\ORCAD\STM32\STM32F446RELIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\selff446re.dsn")
+      (Path "Design Resources" ".\selff446re.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\selff446re.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\stm32f446relib.olb")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources" "Library" ".\stm32f446relib.olb" "4PinHeadI2C"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 466"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1054 24 484"))
+      (Path
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (Package "4PINHEADGPIO")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1054 24 484"))
+      (Path
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\STM32F446RELIB.OLB")
+      (Package "4PINHEADI2C")
+      (PartType "1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1054 24 484")
+        (Scroll "2406 822")
+        (Zoom "172")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\VOYAG\ONEDRIVE\DOCUMENTS\ORCAD_WORK\F446RE\SELFF446RE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "voyag"))
