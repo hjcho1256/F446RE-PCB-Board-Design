@@ -1,0 +1,85 @@
+\t (00:00:01) allegro 17.4 S030 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jul 19 16:58:05 2022
+\t (00:00:01)         Host=DESKTOP-88MJD6P User=voyag Pid=20608 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Program Files (x86)/OrCAD/F446RE/Inductor/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "C:/Program Files (x86)/OrCAD/F446RE/Inductor" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "C:/Program Files (x86)/OrCAD/F446RE/Inductor/IND_27XX_9P5_FRT.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 866
+\i (00:00:05) trapsize 941
+\i (00:00:05) trapsize 979
+\i (00:00:05) trapsize 941
+\i (00:00:05) trapsize 941
+\i (00:00:05) trapsize 941
+\i (00:00:05) trapsize 94131
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (16 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 86634
+\i (00:00:07) trapsize 94131
+\i (00:00:07) trapsize 97926
+\i (00:00:07) trapsize 94131
+\i (00:00:07) trapsize 94131
+\i (00:00:07) trapsize 94131
+\i (00:00:07) trapsize 94131
+\t (00:00:07) Performing DRC...
+\t (00:00:07) Multithreaded DRC update (16 threads).
+\i (00:00:07) trapsize 90618
+\t (00:00:07) No DRC errors detected.
+\t (00:00:09) Opening Design "IND_27XX_9P5_FRT.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 86634
+\i (00:00:09) trapsize 94131
+\i (00:00:09) trapsize 97926
+\i (00:00:09) trapsize 94131
+\i (00:00:09) trapsize 94131
+\i (00:00:09) trapsize 94131
+\i (00:00:09) trapsize 94131
+\t (00:00:09) Performing DRC...
+\t (00:00:09) No DRC errors detected.
+\i (00:00:09) trapsize 20393
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+   (00:00:10) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 138.0)
+\t (00:00:10) Creating Pins
+\t (00:00:10) Creating Vias
+\t (00:00:10) Creating package symbol 'C:/Program Files (x86)/OrCAD/F446RE/Inductor/ind_27xx_9p5_frt.psm'.
+\t (00:00:10) Starting Create symbol...
+\t (00:00:13) Symbol Created
+   (00:00:13) Loading cmds.cxt 
+   (00:00:13) Loading skillExt.cxt 
+\i (00:00:13) trapsize 2805
+\i (00:00:15) trapsize 3208
+\t (00:00:16) Opening existing design...
+\i (00:00:16) trapsize 3208
+\i (00:00:16) trapsize 3317
+\i (00:00:16) trapsize 3208
+\i (00:00:16) trapsize 3332
+\d (00:00:16) Design opened: C:/Program Files (x86)/OrCAD/F446RE/Inductor/IND_27XX_9P5_FRT.dra
+\t (00:00:16) Symbol Saved
+   (00:00:16) t
+\i (00:00:16) scriptmode +i +n 
+\i (00:00:16) step pkg map 
+\i (00:02:18) fillin yes 
+\i (00:02:18) setwindow form.pkgmap3d 
+\i (00:02:18) FORM pkgmap3d stplist IND_27XX_9P5_FRT.step 
+\i (00:02:20) FORM pkgmap3d rotation_x 0 
+\i (00:02:20) FORM pkgmap3d save_current 
+\i (00:02:20) FORM pkgmap3d done 
+\i (00:02:20) setwindow pcb 
+\i (00:02:20) save 
+\i (00:02:20) fillin yes 
+\t (00:02:26) Symbol 'ind_27xx_9p5_frt.psm' created.
+\i (00:02:26) exit 
+\t (00:02:26)     Journal end - Tue Jul 19 17:00:30 2022

@@ -1,0 +1,33 @@
+\t (00:00:01) allegro 17.4 S030 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jul 19 17:00:45 2022
+\t (00:00:01)         Host=DESKTOP-88MJD6P User=voyag Pid=14604 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "IND_27XX_9P5_FRT"
+\d (00:00:06) Design opened: C:/Program Files (x86)/OrCAD/F446RE/Inductor/IND_27XX_9P5_FRT.dra
+\i (00:00:06) trapsize 2902
+\i (00:00:06) trapsize 2988
+\i (00:00:06) trapsize 2902
+\i (00:00:06) trapsize 3332
+\i (00:00:06) trapsize 3412
+\i (00:00:07) generaledit 
+\i (00:00:14) enved 
+\i (00:00:14) setwindow form.prfedit
+\i (00:00:14) FORM prfedit treelist  My_favorites 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) generaledit 
+\i (00:00:15) setwindow form.prfedit
+\i (00:00:15) FORM prfedit treelist  Paths 
+\i (00:00:16) FORM prfedit treelist  MCM Paths 
+\i (00:00:17) FORM prfedit treelist  Library Paths 
+\i (00:00:18) FORM prfedit padpath  
+\i (00:00:22) FORM prfedit psmpath  
+\i (00:00:32) fillin "C:/Program Files (x86)/OrCAD/F446RE/Inductor"
+\i (00:00:34) FORM prfedit padpath  
+\i (00:00:40) fillin "C:/Program Files (x86)/OrCAD/F446RE/Inductor"
+\i (00:00:43) FORM prfedit cancel  
+\i (00:00:44) setwindow pcb
+\i (00:00:44) exit 
+\t (00:00:44)     Journal end - Tue Jul 19 17:01:29 2022

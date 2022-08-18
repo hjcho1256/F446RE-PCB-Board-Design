@@ -1,0 +1,127 @@
+\t (00:00:51) allegro 17.4 S030 Windows SPB 64-bit Edition
+\t (00:00:51)     Journal start - Mon Aug  1 14:52:20 2022
+\t (00:00:51)         Host=DESKTOP-88MJD6P User=voyag Pid=19144 CPUs=16
+\t (00:00:51) CmdLine= allegro.exe -proj c:/users/voyag/onedrive/documents/orcad_work/f446re/selff446re.opj C:/USERS/VOYAG/ONEDRIVE/DOCUMENTS/ORCAD_WORK/F446RE/allegro/selff446re2.brd
+\t (00:00:51) 
+\d (00:00:51) Design opened: C:/Users/voyag/OneDrive/DOCUMENTS/ORCAD_WORK/F446RE/SAMTEC_TSW-109-16-T-S.dra
+\i (00:00:51) trapsize 5453
+\i (00:00:54) generaledit 
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 16.5533 -1.7201
+\i (00:00:54) trapsize 2726
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 16.6078 9.0764
+\i (00:00:54) trapsize 1363
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 16.6351 9.0764
+\i (00:00:54) trapsize 682
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 16.6351 9.0492
+\i (00:00:54) trapsize 341
+\i (00:00:54) roam y -96 
+\i (00:00:54) roam y -96
+\i (00:00:54) roam y -96 
+\i (00:00:54) roam y -96
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 16.6760 9.2385
+\i (00:00:54) trapsize 682
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 16.6760 9.2385
+\i (00:00:54) trapsize 1363
+\i (00:00:55) roam y 96 
+\i (00:00:55) roam y 96
+\i (00:00:55) roam y 96 
+\i (00:00:55) roam y 96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam y 96 
+\i (00:00:55) roam y 96
+\i (00:01:04) showhide options 
+\i (00:01:04) generaledit 
+\i (00:01:08) showhide find 
+\i (00:01:08) trapsize 1673
+\i (00:01:08) generaledit 
+\i (00:01:10) setwindow form.find
+\i (00:01:10) FORM find all_off  
+\i (00:01:11) FORM find pins YES 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick grid 2.6483 -0.2015
+\t (00:01:11) last pick:  2.5400 0.0000
+\i (00:01:11) pick grid dbl 2.6483 -0.2015
+\t (00:01:11) last pick:  2.5400 0.0000
+\i (00:01:11) pick grid 2.6483 -0.1680
+\t (00:01:11) last pick:  2.5400 0.0000
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 3.6186 -0.5360
+\i (00:01:12) trapsize 836
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 3.6186 -0.5360
+\i (00:01:12) trapsize 418
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 3.6186 -0.5360
+\i (00:01:12) trapsize 209
+\i (00:01:12) pick grid tgl 2.9704 -0.0885
+\t (00:01:12) last pick:  2.5400 0.0000
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 3.2506 0.0244
+\i (00:01:13) trapsize 418
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 3.2506 0.0244
+\i (00:01:13) trapsize 836
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 3.2506 0.0244
+\i (00:01:13) trapsize 1673
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 3.2506 3.9472
+\i (00:01:13) trapsize 836
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 3.3175 3.9639
+\i (00:01:13) trapsize 1673
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 5.9273 2.5085
+\i (00:01:13) trapsize 836
+\i (00:01:14) pick grid 2.2804 0.2669
+\t (00:01:14) last pick:  2.5400 0.0000
+\i (00:01:15) pick grid 5.1578 0.2167
+\t (00:01:15) last pick:  5.0800 0.0000
+\i (00:01:15) pick grid 7.7675 -0.1346
+\t (00:01:15) last pick:  7.6200 0.0000
+\i (00:01:15) pick grid 9.0723 -0.1681
+\t (00:01:15) last pick:  10.1600 0.0000
+\i (00:01:15) pick grid 9.9088 -0.0342
+\t (00:01:15) last pick:  10.1600 0.0000
+\i (00:01:15) roam x 96 
+\i (00:01:15) roam x 96
+\i (00:01:16) pick grid 12.3007 0.0160
+\t (00:01:16) last pick:  12.7000 0.0000
+\i (00:01:16) roam x 96 
+\i (00:01:16) roam x 96
+\i (00:01:16) roam x 96 
+\i (00:01:16) roam x 96
+\i (00:01:17) roam x 96 
+\i (00:01:17) roam x 96
+\i (00:01:17) roam x 96 
+\i (00:01:17) roam x 96
+\i (00:01:17) roam x -96 
+\i (00:01:17) roam x -96
+\i (00:01:19) exit 
+\e (00:01:19) Do you want to save the changes you made to SAMTEC_TSW-109-16-T-S.dra?
+\i (00:01:21) fillin no 
+\t (00:01:21)     Journal end - Mon Aug  1 14:52:50 2022

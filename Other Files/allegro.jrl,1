@@ -1,0 +1,43 @@
+\t (00:32:53) allegro 17.4 S030 Windows SPB 64-bit Edition
+\t (00:32:53)     Journal start - Mon Aug  1 13:19:49 2022
+\t (00:32:53)         Host=DESKTOP-88MJD6P User=voyag Pid=28704 CPUs=16
+\t (00:32:53) CmdLine= allegro.exe -proj c:/users/voyag/onedrive/documents/orcad_work/f446re/selff446re.opj C:/USERS/VOYAG/ONEDRIVE/DOCUMENTS/ORCAD_WORK/F446RE/allegro/selff446re2.brd
+\t (00:32:53) 
+\d (00:32:53) Design opened: C:/Users/voyag/OneDrive/DOCUMENTS/ORCAD_WORK/F446RE/TE_826629-4.dra
+\i (00:32:53) trapsize 2738
+\i (00:32:53) generaledit 
+\i (00:32:55) zoom in 1 
+\i (00:32:55) setwindow pcb
+\i (00:32:55) zoom in -4.7961 -4.6449
+\i (00:32:55) trapsize 1369
+\i (00:32:55) zoom in 1 
+\i (00:32:55) setwindow pcb
+\i (00:32:55) zoom in -4.7961 -0.6370
+\i (00:32:55) trapsize 685
+\i (00:32:55) zoom in 1 
+\i (00:32:55) setwindow pcb
+\i (00:32:55) zoom in -4.1526 -0.5411
+\i (00:32:55) trapsize 342
+\i (00:32:58) drag_start grid -4.2142 0.3557
+\i (00:32:59) drag_stop -2.9545 -0.8150
+\i (00:32:59) pick grid -3.6391 0.0955
+\t (00:32:59) last pick:  -2.5400 0.0000
+\i (00:33:00) pick grid -5.8503 -1.7939
+\t (00:33:00) last pick:  -5.0800 -2.5400
+\i (00:33:00) prepopup -5.8366 -1.1846
+\i (00:33:01) pick grid -5.8914 -1.1025
+\t (00:33:01) last pick:  -5.0800 0.0000
+\i (00:33:08) zoom out 1 
+\i (00:33:08) setwindow pcb
+\i (00:33:08) zoom out -2.9956 0.5953
+\i (00:33:08) trapsize 685
+\i (00:33:15) open 
+\i (00:33:25) fillin "C:/Users/voyag/OneDrive/DOCUMENTS/ORCAD_WORK/F446RE/allegro/selff446re2.brd"
+\i (00:33:25) cd "C:/Users/voyag/OneDrive/DOCUMENTS/ORCAD_WORK/F446RE/allegro"
+\t (00:33:26) Opening existing design...
+\i (00:33:26) trapsize 178
+\i (00:33:26) trapsize 182
+\i (00:33:26) trapsize 178
+\i (00:33:26) trapsize 307
+\t (00:33:26) > Sending response DoneOpenBoard
+\t (00:33:26)     Journal end - Mon Aug  1 13:20:23 2022

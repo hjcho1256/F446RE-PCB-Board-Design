@@ -1,0 +1,14 @@
+skill load "C:/Program Files (x86)/OrCAD/F446RE/builder.ile" 
+skill changeWorkingDir "C:/Program Files (x86)/OrCAD/F446RE" 
+skill LB_createFootprint "C:/Program Files (x86)/OrCAD/F446RE/LQFP64-10x10mm.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist LQFP64-10x10mm.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 
